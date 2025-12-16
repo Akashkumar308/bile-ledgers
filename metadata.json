@@ -1,0 +1,5 @@
+{
+  "name": "BikeLedger",
+  "description": "A comprehensive accounting web application for a bike service shop to track sales, expenses, and profitability with a modern, ledger-inspired interface.",
+  "requestFramePermissions": []
+}
